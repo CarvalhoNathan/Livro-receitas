@@ -1,7 +1,7 @@
 
 # Strogonoff de Frango  🐔
 
-### Ingredientes
+## Ingredientes
 
 -   3 peitos de frango cortados em cubos
 -   1 dente de alho picado
@@ -15,7 +15,7 @@
 -   1 copo de creme de leite
 -   batata palha a gosto
 
-### Modo de Preparo
+## Modo de Preparo
 
 1.  Em uma panela, misture o frango, o alho, a maionese, o sal e a pimenta.
     
@@ -30,7 +30,7 @@
 6.  Sirva com arroz branco e batata palha.
     
 
-### Informações adicionais
+## Informações adicionais
 
 O strogonoff, apesar de ser uma receita muito famosa entre os brasileiros, nasceu na Rússia e era um prato servido para nobreza russa. No Brasil, se popularizou nos anos 1970 e era uma comida especial, servida em festas. Não demorou muito, o strogonoff chegou nos pratos de todos os brasileiros e hoje faz parte do nosso dia a dia.
 
