@@ -11,6 +11,8 @@
 
 -  Strogonoff de frango
 -  Bolinho de mandioca
+-  Bolinha de queijo
+
 #### Sobremesas:
 - Bolo gelado
 - Bolo de milho cremoso
